@@ -1,0 +1,2 @@
+D:\作业\C++代码\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\作业\C++代码\ConsoleApplication1\Debug\ConsoleApplication1.pdb
